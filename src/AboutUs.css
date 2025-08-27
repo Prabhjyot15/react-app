@@ -31,3 +31,47 @@
   .plant_logo_left{
     text-align: left;
   }
+
+  .about-us-container {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+  background-color: #f0fdf4;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+  color: #2e7d32; /* Base green color for all text */
+}
+
+.about-us-heading {
+  font-size: 2.5rem;
+  text-align: center;
+  color: #1b5e20; /* Darker green for contrast */
+  margin-bottom: 1.5rem;
+}
+
+.about-us-description {
+  font-size: 1.3rem;
+  text-align: center;
+  color: #388e3c; /* Medium green */
+  margin-bottom: 2rem;
+}
+
+.about-us-section {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.about-us-content {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #2e7d32; /* Consistent green */
+  margin-bottom: 1rem;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.plant-logo {
+  margin-top: 1rem;
+}
