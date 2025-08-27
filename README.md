@@ -1,33 +1,6 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a id="readme-top"></a>
 
-# Paradise Nursery Shopping Cart App
-<!-- TABLE OF CONTENTS -->
-<details open>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#course-information">Course Information</a></li>
-    <li>
-      <a href="#information-about-the-project">Information about the Project</a>
-      <ul>
-        <li><a href="#general">General</a></li>
-        <li><a href="#tech-stack">Tech Stack</a></li>
-      </ul>
-    </li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-<br>
-
-
-## Introduction
-This repository was created as part of IBM's "Developing Front End Apps with React" course.<br>
-A React application was created as a final project: Paradise Nursery Shopping Cart App.<br>
-<br>
-With this application, users can select plants in an online plant shop and add them to the shopping cart.<br>
-<br>
 Home screen:<br>
 
 ![image](https://github.com/user-attachments/assets/4d5a768b-6c68-46f1-9875-8daea89773bd)
